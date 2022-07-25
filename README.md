@@ -57,9 +57,9 @@ Ainda sim se desejar testar.
 Clone o projeto e acesse a pasta do mesmo.
 
 ```bash
-$ git clone https://github.com/Jonathan-Rios/ignite-react-challenge-4
+$ git clone https://github.com/ArmandoMarioto/Desafio01-CriandoUmProjetoDoZero
 
-$ cd ignite-react-challenge-4
+$ cd Desafio01-CriandoUmProjetoDoZero
 ```
 
 Para iniciá-lo, siga os passos abaixo:
@@ -75,23 +75,5 @@ $ npm run dev
 - O app estará disponível no seu browser pelo endereço http://localhost:3000.
 
 
-## 📝 License
-
-Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](./LICENSE.md) para mais detalhes.
-
-<br />
-
-<br />
-
----
-<br />
-
-<a href="https://github.com/Jonathan-Rios">
- <img src="https://github.com/Jonathan-Rios.png" width="100px;" alt="" />
- <br />
- <sub><b>Jonathan Rios Sousa</b></sub></a>
-
 💠 NeverStopLearning 💠
 
-[![Linkedin Badge](https://img.shields.io/badge/-Jonathan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jonathan-rios-sousa-19b3431b6/)](https://www.linkedin.com/in/jonathan-rios-sousa-19b3431b6/)
-[![Gmail Badge](https://img.shields.io/badge/-jonathan.riosousa@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jonathan.riosousa@gmail.com)](mailto:jonathan.riosousa@gmail.com)
