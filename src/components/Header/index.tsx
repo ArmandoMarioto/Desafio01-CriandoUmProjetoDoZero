@@ -1,15 +1,16 @@
+import { ReactElement } from 'react';
+
 import Link from 'next/link';
 import styles from './header.module.scss';
 
-// eslint-disable-next-line @typescript-eslint/explicit-module-boundary-types, @typescript-eslint/explicit-function-return-type
-export default function Header() {
+export default function Header(): ReactElement {
   return (
-    <header className={styles.postHeader}>
+    <div className={styles.container}>
       <Link href="/">
         <a>
-          <img src="/Logo.svg" alt="logo" className={styles.logo} />
+          <img src="/images/logo.svg" alt="logo" />
         </a>
       </Link>
-    </header>
+    </div>
   );
 }
